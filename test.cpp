@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-  cout << "the file is C++" << endl;
-  cout << "hello world!"<<endl;
+  cout << "One:the file is C++" << endl;
+  cout << "Two:hello world!"<<endl;
   return 0;
 }
